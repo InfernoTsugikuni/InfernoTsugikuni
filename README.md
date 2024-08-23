@@ -32,9 +32,9 @@ along with powershell, the win32 api, reverse engineering and computer science
 
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 
-# C AND C++ IS THE SAME FIGHT ME
 
 **[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)  that thing scares me**
+
 
 # I LEARN USING
 [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#)
