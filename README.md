@@ -32,10 +32,6 @@ along with powershell, the win32 api, reverse engineering and computer science
 
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 
-
-**[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)  that thing scares me**
-
-
 # I LEARN USING
 [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
@@ -50,3 +46,6 @@ but my primary learning method is
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 **but my primary os is windows**
+
+# that thing scares me 
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
