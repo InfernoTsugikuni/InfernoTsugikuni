@@ -25,7 +25,7 @@ along with powershell, the win32 api, reverse engineering, backend website dev, 
 # CODE EDITORS
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-**ONYY FOR COMPILING USING SLN FILES**
+**ONLY FOR COMPILING USING SLN FILES**
 
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
 
