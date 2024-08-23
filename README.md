@@ -23,7 +23,7 @@ Just a random guy from Europe interested in cyber security and malware developme
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-along with powershell, the win32 api, reverse engineering, backend website dev, reverse engineering and computer science
+along with powershell, the win32 api, reverse engineering and computer science
 
 # CODE EDITORS
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
