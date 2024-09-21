@@ -23,7 +23,6 @@ Just a random guy from Europe interested in cyber security and malware developme
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 along with powershell, the win32 api, reverse engineering and computer science
 
