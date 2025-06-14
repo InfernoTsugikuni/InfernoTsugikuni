@@ -1,3 +1,5 @@
-Just a random guy from Europe interested in cyber security and malware development.
+Just a random guy from Europe interested in cyber security and software engineering.
 
-[https://www.infernotsugikuni.work](https://infernotsugikuni.work/)
+Main lang **C++**
+
+[My Website](https://infernotsugikuni.work/)
